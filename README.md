@@ -1,2 +1,1 @@
-# stepik_auto_tests_course
-Stepik_homework 
+Homework from Stepik https://stepik.org/course/575/syllabus
